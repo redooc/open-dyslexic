@@ -1,12 +1,12 @@
 {
 	"author": "Abbie Gonzalez",
-	"name":"open-dyslexic",
+	"name":"open-dyslexic-redooc",
 	"description": "Open source font for dyslexics and for high readability.",
 	"version": "2.1.0",
 	"homepage": "https://github.com/antijingoist/open-dyslexic",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/antijingoist/open-dyslexic"
+		"url": "git://github.com/redooc/open-dyslexic"
 	},
 	"ignore": [
 		"README.md",
