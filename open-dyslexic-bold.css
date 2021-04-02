@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'open-dyslexic-bold';
+    src: url('eot/OpenDyslexic-Bold.eot') format('embedded-opentype');
+    src: url('otf/OpenDyslexic-Bold.otf') format('opentype'),
+        url('woff/OpenDyslexic-Bold.woff') format('woff'),
+        url('ttf/OpenDyslexic3-Bold.ttf') format('truetype'),
+        url('svg/OpenDyslexic-Bold.svg#opendyslexicbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
